@@ -25,7 +25,9 @@ Extract the .zip on any folder and execute "SDL Game -OutRun.exe"
 
 ## GAMEPLAY
 
-<iframe width="560" height="315" src="https://youtu.be/FsluYIrxs1M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> Check out the gameplay by the following  [youtube](https://youtu.be/FsluYIrxs1M). 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtu.be/FsluYIrxs1M/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/FsluYIrxs1M)
+
+Check out the gameplay by the following  [youtube](https://youtu.be/FsluYIrxs1M). 
 
 
 ## How to finish the game:
