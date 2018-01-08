@@ -7,18 +7,20 @@ This simulation of projections used during the 70's and 80's had the purpose of 
 
 The content of this game was extracted from [Sega System 16 Sprite Viewer](http://reassembler.blogspot.com.es/2012/11/sega-system-16-sprite-viewer.html) other content was extracted manually.
 
-### How To Play 🎮
+# How To Play 🎮
 
 Once you download the release game from [frankyPear releases](https://github.com/frankyPear/OutRunGame/releases)
 
 Extract the .zip on any folder and execute "SDL Game -OutRun.exe"
 
-```markdown
-# Commands
+## Commands
 
 **_KeyBoard - W:_** _Speed Up_ - Accelerate forward.
+
 **_KeyBoard - A:_** _Go Left_ - Mover your position to the left.
+
 **_KeyBoard - D:_** _Go Right_ - Mover your position to the right.
+
 **_KeyBoard - SPACE:_** _Change Gear_ - Change your gear to low or high.
 
 Check out the gameplay by the following [link]()
@@ -28,8 +30,8 @@ Check out the gameplay by the following [link]()
 Download the source code with the following [link](https://github.com/frankyPear/OutRunGame/releases) and open the visual studio project.
 This project is compiled in Realease mode for x86 platforms.
 
-###License
+### License
 
 Apache License 2.0 © Francesc Pérez
-
+GPL-3.0 © Francesc Pérez
 Happy Gaming for everyone :)
