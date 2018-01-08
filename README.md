@@ -23,19 +23,22 @@ Extract the .zip on any folder and execute "SDL Game -OutRun.exe"
 
 **_KeyBoard - SPACE:_** _Change Gear_ - Change your gear to low or high. // _Action Button_ - During the menu scene.
 
-Check out the gameplay by the following [link]()
+## GAMEPLAY
 
-### How to finish the game:
+<iframe width="560" height="315" src="https://youtu.be/FsluYIrxs1M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> Check out the gameplay by the following  [youtube](https://youtu.be/FsluYIrxs1M). 
+
+
+## How to finish the game:
 
 You have 60 seconds to reach the goal. You must avoid leaving the road and reach the destination on time. 
 Will you be able to get it?
 
-### How to build the game on visual studio?
+## How to build the game on visual studio?
 
 Download the source code with the following [link](https://github.com/frankyPear/OutRunGame/releases) and open the visual studio project.
 This project is compiled in Realease mode for x86 platforms.
 
-### License
+## License
 
 Apache License 2.0 © Francesc Pérez
 GPL-3.0 © Francesc Pérez
